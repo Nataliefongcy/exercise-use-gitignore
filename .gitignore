@@ -1,10 +1,10 @@
 node_modules/
- .env., /artifacts/, z*
-# User-specific files - Ignore all files ending in ".env."
-*.env.
 
-# Mono auto generated files - Ignore all files starting with the letter "z*"
+# Ignore all files starting with the letter z
 z*
 
-#Ignores a top-level directory named /artifacts/
+# Ignore the .env file
+.env
+
+# Ignore the artifacts directory at the top-level
 /artifacts/
