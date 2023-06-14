@@ -1,5 +1,5 @@
 node_modules/
- .env, /artifacts/, z*
+ .env., /artifacts/, z*
 # User-specific files - Ignore all files ending in ".env."
 *.env.
 
